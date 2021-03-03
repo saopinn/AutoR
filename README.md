@@ -2,6 +2,6 @@
 
 Little script for games "bhop" and "surf" [roblox].
 
-press q for /serverlist
+press Q for /serverlist
 
-press shift for /r
+press F for /r
