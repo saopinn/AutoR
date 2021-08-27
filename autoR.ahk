@@ -5,20 +5,16 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
 f::
 Send, /
-Sleep, 30
-Send, /
-Sleep, 30
+Sleep, 25
 Send, r
-Sleep, 30
+Sleep, 25
 Send, {enter}
 return
 
 q::
 Send, /
-Sleep, 30
-Send, /
-Sleep, 30
+Sleep, 25
 Send, serverlist
-Sleep, 30
+Sleep, 25
 Send, {enter}
 return
