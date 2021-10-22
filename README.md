@@ -1,7 +1,5 @@
 # AutoR
 
-Little script for games "bhop" and "surf" [roblox].
+press y for /serverlist
 
-press Q for /serverlist
-
-press F for /r
+press f for /r
